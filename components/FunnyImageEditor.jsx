@@ -3,18 +3,18 @@ import { Upload, Download } from "lucide-react";
 
 // Add these random images to your public folder
 const randomImages = [
-  "src/assets/1.jpg",
-  "src/assets/2.jpg",
-  "src/assets/3.jpeg",
-  "src/assets/4.jpeg",
-  "src/assets/8.jpeg",
-  "src/assets/9.jpeg",
-  "src/assets/10.jpeg",
-  "src/assets/11.jpeg",
-  "src/assets/12.jpeg",
-  "src/assets/13.jpeg",
-  "src/assets/14.jpeg",
-  "src/assets/15.jpg",
+  "/src/assets/1.jpg",
+  "/src/assets/2.jpg",
+  "/src/assets/3.jpeg",
+  "/src/assets/4.jpeg",
+  "/src/assets/8.jpeg",
+  "/src/assets/9.jpeg",
+  "/src/assets/10.jpeg",
+  "/src/assets/11.jpeg",
+  "/src/assets/12.jpeg",
+  "/src/assets/13.jpeg",
+  "/src/assets/14.jpeg",
+  "/src/assets/15.jpg",
 
 
 ];
