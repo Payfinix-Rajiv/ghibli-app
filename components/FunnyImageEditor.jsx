@@ -3,18 +3,18 @@ import { Upload, Download } from "lucide-react";
 
 // Add these random images to your public folder
 const randomImages = [
-  "/public/assets/1.jpg",
-  "/public/assets/2.jpg",
-  "/public/assets/3.jpeg",
-  "/public/assets/4.jpeg",
-  "/public/assets/8.jpeg",
-  "/public/assets/9.jpeg",
-  "/public/assets/10.jpeg",
-  "/public/assets/11.jpeg",
-  "/public/assets/12.jpeg",
-  "/public/assets/13.jpeg",
-  "/public/assets/14.jpeg",
-  "/public/assets/15.jpg",
+  "public/assets/1.jpg",
+  "public/assets/2.jpg",
+  "public/assets/3.jpeg",
+  "public/assets/4.jpeg",
+  "public/assets/8.jpeg",
+  "public/assets/9.jpeg",
+  "public/assets/10.jpeg",
+  "public/assets/11.jpeg",
+  "public/assets/12.jpeg",
+  "public/assets/13.jpeg",
+  "public/assets/14.jpeg",
+  "public/assets/15.jpg",
 
 ];
 export default function FunnyImageEditor() {
